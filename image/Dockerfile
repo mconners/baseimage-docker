@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM armhf-ubuntu:14.04.2
 MAINTAINER Phusion <info@phusion.nl>
 
 ENV HOME /root
